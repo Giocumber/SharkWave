@@ -1,0 +1,31 @@
+body {
+    background-size: cover ;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0; 
+    background-color: #215c86;
+
+}
+
+#mainLogo {
+    margin-top: 10%;
+}
+
+#Logo{
+    width: 240px;
+    border-radius: 50%;
+    box-shadow: 5px 5px 100px rgba(0, 0, 0, 0.3);
+}
+
+#Text{
+    width: 250px;
+}
+
+.icons img{
+    margin-top: 20px;
+    width: 45px;
+}
+
+#itch {
+    width: 48px;
+}
